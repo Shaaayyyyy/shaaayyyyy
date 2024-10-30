@@ -2,7 +2,7 @@
 <h1 align="center">Hola!!, I'm Shayani Banerjee</h1>
 <h3 align="center">A passionate Dta Analyst from India</h3>
 <img align="right" alt="Coding" width="400" 
-src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149">
+src="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaaayyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="shaaayyyyy" /> </p>
 
