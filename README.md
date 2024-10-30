@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)] (https://github.com/Shaaayyyyy)
+
 <h1 align="center">Hola!!, I'm Shayani Banerjee</h1>
 <h3 align="center">A passionate Dta Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">
+<p align ="left"><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="shaaayyyyy"/> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaaayyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="shaaayyyyy" /> </p>
