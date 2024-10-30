@@ -1,13 +1,9 @@
-
 <h1 align="center">Hola!!, I'm Shayani Banerjee</h1>
 <h3 align="center">A passionate Dta Analyst from India</h3>
 <p align ="left"><img src="https://camo.githubusercontent.com/478c8bdb1ee28b364cf7e804dcef59fddb6ea99848db29d2a26ef96c29bfe4e8/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f36353139386236652d653430372d346338662d383530302d3637363863623335613736635f6361725f3178312e6769663f683d6366326565323431333536313031633632376533656664373438643539386330" alt="shaaayyyyy"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaaayyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="shaaayyyyy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaaayyyyy" alt="shaaayyyyy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Mysql,python,Power BI, Gen AI, AI/ML,Deep learning**
 
@@ -33,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaaayyyyy&" alt="shaaayyyyy" /></p>
 
--->
