@@ -3,8 +3,6 @@
 <p align ="left"><img src="https://camo.githubusercontent.com/478c8bdb1ee28b364cf7e804dcef59fddb6ea99848db29d2a26ef96c29bfe4e8/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f36353139386236652d653430372d346338662d383530302d3637363863623335613736635f6361725f3178312e6769663f683d6366326565323431333536313031633632376533656664373438643539386330" alt="shaaayyyyy"/> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaaayyyyy" alt="shaaayyyyy" /></a> </p>
-
 - 🌱 I’m currently learning **Mysql,python,Power BI, Gen AI, AI/ML,Deep learning**
 
 - 📫 How to reach me **banerjeeshayani65@gmail.com**
@@ -26,6 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaaayyyyy&show_icons=true&locale=en&layout=compact" alt="shaaayyyyy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaaayyyyy&show_icons=true&locale=en" alt="shaaayyyyy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaaayyyyy&" alt="shaaayyyyy" /></p>
 
